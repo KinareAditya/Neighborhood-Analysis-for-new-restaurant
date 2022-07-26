@@ -5,4 +5,5 @@ This project can be useful for business owners and entrepreneurs as well who
 are looking to invest in a restaurant in Los Angeles. The main objective of this 
 project is to carefully analyse appropriate data and find recommendations for 
 the stakeholders
-The data required for this project has been collected from multiple sources.
+The data required for this project has been collected from multiple sources, mainly Foursquare API.
+
